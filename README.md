@@ -13,7 +13,8 @@
 - 🔭 Currently building end-to-end ML/LLM projects and strengthening my DS/ML portfolio
 - 🧠 Learning ML mathematics, algorithms from scratch, and DSA
 - 💬 Ask me about RAG pipelines, LLMs, or data analytics dashboards
-- 📫 Reach me at: *add your email/LinkedIn here*
+- 📫 Reach me at: dhairyapathak2005@gmail.com
+- 
 
 ---
 

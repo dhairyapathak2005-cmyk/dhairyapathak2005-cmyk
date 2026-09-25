@@ -33,11 +33,16 @@ I build machine learning systems end‑to‑end — from the math behind a neura
 📫&nbsp; *add your email here* &nbsp;|&nbsp; *add your LinkedIn here*
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="top">
 
-### 🏆&nbsp; Trophies
+### 🎯&nbsp; Currently Focused On
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhairyapathak2005-cmyk&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3&row=2" width="100%"/>
+- [x] RAG / LLM applications
+- [x] Neural networks from scratch
+- [ ] Deploying with FastAPI + Docker
+- [ ] Building a Kaggle presence
+- [ ] AWS Cloud Practitioner
+- [ ] HuggingFace NLP Course
 
 </td>
 </tr>
@@ -134,6 +139,15 @@ Data analysis and dashboarding built on cricket match datasets.
 <div align="center">
 
 ### 🤝&nbsp; Connect
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/dhairyapathak2005-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,50:24243e,100:0F0C29&height=100&section=footer" width="100%"/>
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/dhairyapathak2005-cmyk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

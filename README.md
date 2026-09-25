@@ -1,63 +1,97 @@
-<h1 align="center">Hi, I'm Dhairya 👋</h1>
-<h3 align="center">Aspiring Data Scientist / ML Engineer | CS Undergrad @ MITS Gwalior</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+LLMs;RAG+Systems+%7C+Neural+Networks+%7C+Data+Analytics;Turning+data+into+decisions" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,100:302B63&height=200&section=header&text=Dhairya%20Pathak&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-### 🚀 About Me
+<a href="#"><img src="https://img.shields.io/badge/CS%20Undergraduate-MITS%20Gwalior-302B63?style=for-the-badge&labelColor=0F0C29"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Batch-2027-302B63?style=for-the-badge&labelColor=0F0C29"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20Engineering-302B63?style=for-the-badge&labelColor=0F0C29"/></a>
 
-- 🎓 CS undergrad at **Madhav Institute of Technology and Science (MITS), Gwalior** — Batch of 2027
-- 🔭 Currently building end-to-end ML/LLM projects and strengthening my DS/ML portfolio
-- 🧠 Learning ML mathematics, algorithms from scratch, and DSA
-- 💬 Ask me about RAG pipelines, LLMs, or data analytics dashboards
-- 📫 Reach me at: dhairyapathak2005@gmail.com
-- 
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+### &nbsp;&nbsp;✦&nbsp; About
 
-**ML / DL**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
+&nbsp;&nbsp;&nbsp;&nbsp;I build machine learning systems end-to-end — from the math behind a neural network to deployed, retrieval-augmented LLM applications. Currently deep in ML mathematics, algorithm implementation from scratch, and turning research into shipped projects.
 
-**Data**
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+&nbsp;&nbsp;&nbsp;&nbsp;🔭&nbsp; Building my Data Science / ML Engineering portfolio
+&nbsp;&nbsp;&nbsp;&nbsp;🧩&nbsp; Currently sharpening ML fundamentals, DSA, and deployment skills
+&nbsp;&nbsp;&nbsp;&nbsp;📫&nbsp; *add your email / LinkedIn here*
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-### 📌 Featured Projects
+### &nbsp;&nbsp;✦&nbsp; Toolkit
 
-| Project | Description |
-|---|---|
-| 🤖 **[AI Teaching Assistant (RAG)](https://github.com/dhairyapathak2005-cmyk/AI_teaching_Assistant_RAG)** | Query lecture videos for specific info, get timestamped references and a personalized knowledge summary |
-| 🧠 **[Neural Network from Scratch](https://github.com/dhairyapathak2005-cmyk/Neural_Network-from-Scratch)** | Built a neural network using pure Python/NumPy — no ML frameworks — to understand the math under the hood |
-| 🏏 **[Cricket Data Analytics](https://github.com/dhairyapathak2005-cmyk/Cricket)** | Data analysis and dashboarding on cricket datasets |
-| 🧳 **[Bandhu](https://github.com/dhairyapathak2005-cmyk/Bandhu)** | AI-powered tourism & safety platform |
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgres,git,docker,fastapi&theme=dark" />
 
-### 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhairyapathak2005-cmyk&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapathak2005-cmyk&layout=compact&theme=radical&hide_border=true" />
-</p>
+`NumPy` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `Power BI / DAX` &nbsp;·&nbsp; `Matplotlib` &nbsp;·&nbsp; `Seaborn`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyapathak2005-cmyk&theme=radical&hide_border=true" />
-</p>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<p align="center"><i>Open to Data Science / ML Engineering opportunities 🚀</i></p>
+### &nbsp;&nbsp;✦&nbsp; Selected Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[AI Teaching Assistant — RAG](https://github.com/dhairyapathak2005-cmyk/AI_teaching_Assistant_RAG)**
+<br/>Query lecture videos for exact moments; get timestamped references and a personalized knowledge summary.
+<br/>`Jupyter Notebook` `RAG` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+**[Neural Network from Scratch](https://github.com/dhairyapathak2005-cmyk/Neural_Network-from-Scratch)**
+<br/>A neural network built with pure Python and NumPy — no frameworks — to understand what's happening under the hood.
+<br/>`Python` `NumPy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Bandhu](https://github.com/dhairyapathak2005-cmyk/Bandhu)**
+<br/>An AI-powered tourism & safety platform.
+<br/>`Python` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+**[Cricket Analytics](https://github.com/dhairyapathak2005-cmyk/Cricket)**
+<br/>Data analysis and dashboarding built on cricket match datasets.
+<br/>`Jupyter Notebook` `Data Analytics`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+### &nbsp;&nbsp;✦&nbsp; GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhairyapathak2005-cmyk&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=A99BFF&icon_color=A99BFF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyapathak2005-cmyk&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=A99BFF&text_color=C9D1D9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyapathak2005-cmyk&hide_border=true&background=0D1117&stroke=0D1117&ring=A99BFF&fire=A99BFF&currStreakLabel=A99BFF"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<div align="center">
+<sub>Open to Data Science & ML Engineering opportunities</sub>
+</div>
